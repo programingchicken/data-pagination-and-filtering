@@ -47,7 +47,7 @@ table {
   border-spacing: 0;
 }
 
-.cf:after { 
+.student-item:after { 
    content: "."; 
    visibility: hidden; 
    display: block; 
